@@ -1,0 +1,4 @@
+{
+  "standard": { "username": "customer@practicesoftwaretesting.com", "password": "welcome01" },
+  "locked": { "username": "locked_out_user", "password": "secret_sauce" }
+}
